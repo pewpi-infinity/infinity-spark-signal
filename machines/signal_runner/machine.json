@@ -1,0 +1,9 @@
+{
+  "emoji": "📶",
+  "id": "signal_runner",
+  "role": "signal_detection",
+  "abilities": ["🔍","⭐","📈","📶","🪐","🧲","⚙️","👁️"],
+  "emits": "signals",
+  "loop": true,
+  "status": "active"
+}
