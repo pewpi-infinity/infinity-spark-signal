@@ -1,0 +1,7 @@
+{
+  "id": "example_machine",
+  "emoji": "⚙️",
+  "role": "example",
+  "status": "active",
+  "loop": true
+}
